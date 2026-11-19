@@ -1,0 +1,16 @@
+
+======================================================================
+   Starting Question Answering System (SQuAD 2.0)
+======================================================================
+[*] Project directory: C:\Users\sharm\.gemini\antigravity\scratch\qa_system
+[*] Server listening:  http://127.0.0.1:8080
+[*] Open your browser at http://127.0.0.1:8080 to access the GUI.
+======================================================================
+
+[*] Initializing Extractive QA Model...
+
+======================================================================
+  Question Answering System GUI Server Running
+  Access URL: http://127.0.0.1:8080
+======================================================================
+

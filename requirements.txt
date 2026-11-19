@@ -1,0 +1,7 @@
+# Core Application Dependencies
+# The system runs standalone out-of-the-box with Python standard library.
+# Optional dependencies below can be installed to enable HuggingFace Transformer deep pipelines:
+# pip install transformers torch
+
+transformers>=4.35.0
+torch>=2.0.0
